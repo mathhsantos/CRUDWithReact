@@ -1,0 +1,23 @@
+:root {
+  --primary-color: #2C2C2D;
+  --second-color: #1C1A1D;
+  --delete-color: #FF5258;
+  --white-color: #FFF;
+  --save-color: #5BA7FD;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: var(--primary-color);
+  color: var(--white-color);
+}
+
+#active {
+  border-bottom: 3px solid var(--white-color);
+}

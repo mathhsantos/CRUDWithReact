@@ -1,0 +1,1 @@
+# CRUD utilizando Local Storage com React + Vite
